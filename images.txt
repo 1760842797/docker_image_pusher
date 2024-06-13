@@ -2,3 +2,4 @@ alpine:3.19.1
 chronolaw/nfs-subdir-external-provisioner:v4.0.2
 osixia/openldap:1.5.0
 osixia/phpldapadmin:latest
+tiredofit/self-service-password:latest
