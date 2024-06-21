@@ -3,3 +3,4 @@ chronolaw/nfs-subdir-external-provisioner:v4.0.2
 osixia/openldap:1.5.0
 osixia/phpldapadmin:latest
 tiredofit/self-service-password:5.3.3
+registry.k8s.io/pause:3.9
