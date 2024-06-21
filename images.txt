@@ -4,3 +4,5 @@ osixia/openldap:1.5.0
 osixia/phpldapadmin:latest
 tiredofit/self-service-password:5.3.3
 registry.k8s.io/pause:3.9
+docker.io/calico/node:v3.25.0
+docker.io/calico/kube-controllers:v3.25.0
